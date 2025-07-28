@@ -1,1 +1,2 @@
-console.log("Restaurant Page");
+import loadPage from "./page-load";
+loadPage();
